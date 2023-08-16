@@ -1,0 +1,8 @@
+C:\Users\crais\source\repos\SortingAlgorithmsNew\SortingAlgorithmsNew\bin\Debug\SortingAlgorithmsNew.exe.config
+C:\Users\crais\source\repos\SortingAlgorithmsNew\SortingAlgorithmsNew\bin\Debug\SortingAlgorithmsNew.exe
+C:\Users\crais\source\repos\SortingAlgorithmsNew\SortingAlgorithmsNew\bin\Debug\SortingAlgorithmsNew.pdb
+C:\Users\crais\source\repos\SortingAlgorithmsNew\SortingAlgorithmsNew\obj\Debug\SortingAlgorithmsNew.csproj.AssemblyReference.cache
+C:\Users\crais\source\repos\SortingAlgorithmsNew\SortingAlgorithmsNew\obj\Debug\SortingAlgorithmsNew.csproj.SuggestedBindingRedirects.cache
+C:\Users\crais\source\repos\SortingAlgorithmsNew\SortingAlgorithmsNew\obj\Debug\SortingAlgorithmsNew.csproj.CoreCompileInputs.cache
+C:\Users\crais\source\repos\SortingAlgorithmsNew\SortingAlgorithmsNew\obj\Debug\SortingAlgorithmsNew.exe
+C:\Users\crais\source\repos\SortingAlgorithmsNew\SortingAlgorithmsNew\obj\Debug\SortingAlgorithmsNew.pdb
